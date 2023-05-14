@@ -16,7 +16,7 @@ public/bower_components/
 public/dist/
 
 # Environment variables
-.env
+*.env
 
 # Build output
 build/
