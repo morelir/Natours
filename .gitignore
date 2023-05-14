@@ -1,0 +1,33 @@
+.cache
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+public/bower_components/
+public/dist/
+
+# Environment variables
+.env
+
+# Build output
+build/
+dist/
+out/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
