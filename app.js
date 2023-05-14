@@ -6,7 +6,6 @@ const helmet = require('helmet');
 const mongoSanitize = require('express-mongo-sanitize');
 const xss = require('xss-clean');
 const hpp = require('hpp');
-const cors = require('cors');
 const cookieParser = require('cookie-parser');
 
 const tourRouter = require('./routes/tourRoutes');
@@ -20,8 +19,6 @@ const app = express();
 
 app.set('view engine', 'pug');
 app.set('views', path.join(__dirname, 'views'));
-
-// app.use(cors());
 
 // 1) GLOBAL MIDDLEWARES
 // Serving static files
