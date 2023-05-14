@@ -83,7 +83,7 @@ Users can write only one review for any tour they book.
 - [Tours](#Tours)
 - [Bookings](#Bookings)
 - [Reviews](#Reviews)
-- [Favorite Tours](#Favorite Tours)
+- [Favorite Tours](#Favorite)
 
 ## Users
 
