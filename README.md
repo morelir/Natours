@@ -79,7 +79,7 @@ Users can write only one review for any tour they book.
 
 ## Main Features
 
-- [Users](README.md)
+- [Users](#Users)
 - tours
 - Bookings
 - Reviews
