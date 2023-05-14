@@ -80,11 +80,10 @@ Users can write only one review for any tour they book.
 ## Main Features
 
 - [Users](#Users)
-- tours
-- Bookings
-- Reviews
-- Favorite Tours
-- Notice
+- [Tours](#Tours)
+- [Bookings](#Bookings)
+- [Reviews](#Reviews)
+- [Favorite Tours](#Favorite Tours)
 
 ## Users
 
