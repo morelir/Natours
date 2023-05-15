@@ -1,5 +1,5 @@
 <h1 align="center" style="border-bottom: none">Natours Application</h1>
-<p align="center">🎉 The app is live, try it <a href="https://test-9b5eb.web.app/" target="_blank">here</a>. </p> 
+<p align="center">🎉 The app is live, try it <a href="https://natours-app-b6xm.onrender.com" target="_blank">here</a>. </p> 
 Natours is a tour booking web app that I created as part of the <a href="https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/" target="_blank">Node.js course on Udemy by Jonas Schmedtmann</a>. The app uses Node.js, Express and MongoDB to create a RESTful API and a dynamic website. The app also implements authentication, authorization, security, payments and email features.
 
 ## ***Overview***
