@@ -1,4 +1,5 @@
 .cache
+temp*
 
 # Logs
 logs
@@ -31,3 +32,4 @@ out/
 *.njsproj
 *.sln
 *.sw?
+
