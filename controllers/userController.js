@@ -1,7 +1,5 @@
 const multer = require('multer');
 const sharp = require('sharp');
-const { findByIdAndDelete } = require('mongoose/lib/model');
-const { findByIdAndUpdate } = require('../models/userModel');
 const User = require('../models/userModel');
 const AppError = require('../utils/appError');
 const catchAsync = require('../utils/catchAsync');
