@@ -107,12 +107,12 @@ Users can write only one review for any tour they book.
 ## Bookings
 
 - Only regular users can book tours (make a payment).
-- Regular users can not book thesame tour twice.
+- Regular users can not book the same tour twice.
 - Regular users can see all the tours thay have booked.
 - An admin user or a lead-guide can see every booking on the app.
 - An admin user or a lead-guide can delete any booking.
 - An admin user or a lead-guide can create a booking (manually, without payment).
-- An admin user or a lead-guide can not create a bookng for thesame user twice.
+- An admin user or a lead-guide can not create a bookng for the same user twice.
 - An admin user or a lead-guide can edit any booking.
 
 ## Reviews
@@ -120,7 +120,7 @@ Users can write only one review for any tour they book.
 - Only regular users can write reviews for tours which they have booked.
 - All users can see the reviews of each tour.
 - Regular users can edit and delete their own reviews.
-- Regular users can not review thesame tour twice.
+- Regular users can not review the same tour twice.
 - An admin can delete any review.
 
 ## Favorite Tours
