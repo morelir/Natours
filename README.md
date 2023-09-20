@@ -1,9 +1,12 @@
 <h1 align="center" style="border-bottom: none">Natours Application</h1>
 <p align="center">🎉 The app is live, try it <a href="https://natours-app-b6xm.onrender.com" target="_blank">here</a>. </p> 
 <br/>
-Natours is a tour booking web app that I created as part of the <a href="https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/" target="_blank">Node.js course on Udemy by Jonas Schmedtmann</a>. The app uses Node.js, Express and MongoDB to create a RESTful API and a dynamic website. The app also implements authentication, authorization, security, payments and email features.
 
-## ***Overview***
+Natours is a tour booking web app that I created as part of the <a href="https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/" target="_blank">Node.js course on Udemy by Jonas Schmedtmann</a>. The app uses **Node.js**, **Express** and **MongoDB** to create a **RESTful API** and a **dynamic website**. The app also implements authentication, authorization, security, payments and email features.
+
+</br>
+
+## Overview
 This web application allows it's users to book tour vacations.
 
 A tour refers to a series of locations, specially picked to excite the adventurous spirit of the individual who books it.
@@ -14,8 +17,9 @@ Once signed up or logged in, they can then book any tour of their choice.
 
 Users can write only one review for any tour they book.
 
+</br>
 
-## ***Demonstration***
+## Demonstration
 
 #### Home page :
 
